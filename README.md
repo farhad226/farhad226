@@ -7,8 +7,7 @@ I am Farhad Hossain Shovon. I am studying for a Diploma in Engineering. I have a
 Skills:  Graphic Design/ CMS / HTML / CSS
 
  
-- ![image](https://github.com/user-attachments/assets/8b28a447-def9-4740-b225-976e486c5ad9)
- I’m currently learning Web development 
+- 😒I’m currently learning Web development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhad226)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.shovon.927543)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/farhad.hossain000/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://portfolio.iftprivateltd.com)  
